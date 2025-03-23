@@ -123,10 +123,7 @@ yarn install
 
 3. Start the development server:
 ```bash
-npm start
-# or
-yarn start
-```
+npx expo start
 
 ## Project Structure
 
