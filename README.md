@@ -3,6 +3,9 @@
 A comprehensive mobile application built with React Native and Expo for tracking daily calorie intake, water consumption, and maintaining a healthy lifestyle.
 
 ## App Preview
+Install Expo app and scan below QR code.
+
+
 ![Calorie Tracker App Preview](./Preview.png)
 
 ## Features
